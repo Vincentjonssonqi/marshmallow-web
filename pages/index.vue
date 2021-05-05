@@ -100,7 +100,7 @@ export default {
 }
 .info{
   position: absolute;
-  top: 100px;
+  top: 80px;
   left: 100px;
 }
 .links {
